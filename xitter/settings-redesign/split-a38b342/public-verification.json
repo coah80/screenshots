@@ -1,0 +1,54 @@
+{
+  "origin": "https://footwear-discretion-train-polyester.trycloudflare.com",
+  "commit": "a38b342",
+  "results": [
+    {
+      "name": "demo_member",
+      "admin": 404,
+      "superadmin": 404,
+      "theme": 302
+    },
+    {
+      "name": "demo_support",
+      "admin": 200,
+      "superadmin": 404,
+      "theme": 302
+    },
+    {
+      "name": "demo_mod",
+      "admin": 200,
+      "superadmin": 404,
+      "theme": 302
+    },
+    {
+      "name": "demo_admin",
+      "admin": 200,
+      "superadmin": 404,
+      "theme": 302
+    },
+    {
+      "name": "demo_super",
+      "admin": 200,
+      "superadmin": 200,
+      "theme": 302
+    },
+    {
+      "name": "demo_gold",
+      "admin": 404,
+      "superadmin": 404,
+      "theme": 302
+    },
+    {
+      "name": "demo_alice",
+      "admin": 404,
+      "superadmin": 404,
+      "theme": 302
+    },
+    {
+      "name": "demo_bob",
+      "admin": 404,
+      "superadmin": 404,
+      "theme": 302
+    }
+  ]
+}
