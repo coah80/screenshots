@@ -1,0 +1,1166 @@
+[
+  {
+    "look": "light",
+    "width": 390,
+    "post": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "inline": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "modal": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "theme": {
+      "frame": [
+        68,
+        322
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(15, 20, 25)",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(15, 20, 25)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        68,
+        322
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(15, 20, 25)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        68,
+        322
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(255, 255, 255)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "light",
+    "width": 800,
+    "post": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "inline": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "reply": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "modal": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "theme": {
+      "frame": [
+        125.328125,
+        675
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(15, 20, 25)",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(15, 20, 25)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        125.328125,
+        675
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(15, 20, 25)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        125.328125,
+        675
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(255, 255, 255)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "light",
+    "width": 1280,
+    "post": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "inline": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "reply": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "modal": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "theme": {
+      "frame": [
+        672.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(15, 20, 25)",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(15, 20, 25)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        672.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(15, 20, 25)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        282.5,
+        998
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(255, 255, 255)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "light",
+    "width": 2560,
+    "post": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "inline": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "reply": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "modal": {
+      "bg": "rgb(15, 20, 25)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "theme": {
+      "frame": [
+        1372.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(15, 20, 25)",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(15, 20, 25)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        1372.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(15, 20, 25)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        922.5,
+        1638
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(255, 255, 255)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "dark",
+    "width": 390,
+    "post": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "inline": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "modal": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "theme": {
+      "frame": [
+        68,
+        322
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(239, 243, 244)",
+          "color": "rgb(15, 20, 25)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(239, 243, 244)",
+          "color": "rgb(15, 20, 25)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        68,
+        322
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(239, 243, 244)",
+          "color": "rgb(15, 20, 25)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        68,
+        322
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(0, 0, 0)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "dark",
+    "width": 800,
+    "post": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "inline": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "reply": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "modal": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "theme": {
+      "frame": [
+        125.328125,
+        675
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(239, 243, 244)",
+          "color": "rgb(15, 20, 25)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(239, 243, 244)",
+          "color": "rgb(15, 20, 25)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        125.328125,
+        675
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(239, 243, 244)",
+          "color": "rgb(15, 20, 25)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        125.328125,
+        675
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(0, 0, 0)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "dark",
+    "width": 1280,
+    "post": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "inline": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "reply": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "modal": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "theme": {
+      "frame": [
+        672.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(239, 243, 244)",
+          "color": "rgb(15, 20, 25)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(239, 243, 244)",
+          "color": "rgb(15, 20, 25)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        672.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(239, 243, 244)",
+          "color": "rgb(15, 20, 25)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        282.5,
+        998
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(0, 0, 0)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "dark",
+    "width": 2560,
+    "post": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "inline": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "reply": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "modal": {
+      "bg": "rgb(239, 243, 244)",
+      "image": "none",
+      "color": "rgb(15, 20, 25)"
+    },
+    "theme": {
+      "frame": [
+        1372.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(239, 243, 244)",
+          "color": "rgb(15, 20, 25)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(239, 243, 244)",
+          "color": "rgb(15, 20, 25)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        1372.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(239, 243, 244)",
+          "color": "rgb(15, 20, 25)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        922.5,
+        1638
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(0, 0, 0)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "dim",
+    "width": 390,
+    "post": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "inline": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "modal": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "theme": {
+      "frame": [
+        68,
+        322
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(29, 155, 240)",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(29, 155, 240)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        68,
+        322
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(29, 155, 240)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        68,
+        322
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(21, 32, 43)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "dim",
+    "width": 800,
+    "post": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "inline": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "reply": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "modal": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "theme": {
+      "frame": [
+        125.328125,
+        675
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(29, 155, 240)",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(29, 155, 240)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        125.328125,
+        675
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(29, 155, 240)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        125.328125,
+        675
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(21, 32, 43)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "dim",
+    "width": 1280,
+    "post": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "inline": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "reply": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "modal": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "theme": {
+      "frame": [
+        672.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(29, 155, 240)",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(29, 155, 240)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        672.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(29, 155, 240)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        282.5,
+        998
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(21, 32, 43)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "dim",
+    "width": 2560,
+    "post": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "inline": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "reply": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "modal": {
+      "bg": "rgb(29, 155, 240)",
+      "image": "none",
+      "color": "rgb(255, 255, 255)"
+    },
+    "theme": {
+      "frame": [
+        1372.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(29, 155, 240)",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(29, 155, 240)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        1372.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(29, 155, 240)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        922.5,
+        1638
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(21, 32, 43)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "custom",
+    "width": 390,
+    "post": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "inline": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "modal": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "theme": {
+      "frame": [
+        68,
+        322
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(86, 54, 170)",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(86, 54, 170)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        68,
+        322
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(86, 54, 170)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        68,
+        322
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(16, 13, 24)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "custom",
+    "width": 800,
+    "post": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "inline": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "reply": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "modal": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "theme": {
+      "frame": [
+        125.328125,
+        675
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(86, 54, 170)",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(86, 54, 170)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        125.328125,
+        675
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(86, 54, 170)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        125.328125,
+        675
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(16, 13, 24)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "custom",
+    "width": 1280,
+    "post": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "inline": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "reply": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "modal": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "theme": {
+      "frame": [
+        672.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(86, 54, 170)",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(86, 54, 170)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        672.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(86, 54, 170)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        282.5,
+        998
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(16, 13, 24)",
+      "buttons": []
+    }
+  },
+  {
+    "look": "custom",
+    "width": 2560,
+    "post": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "inline": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "reply": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "modal": {
+      "bg": "rgba(0, 0, 0, 0)",
+      "image": "linear-gradient(rgb(86, 54, 170), rgb(86, 54, 170))",
+      "color": "rgb(255, 255, 255)"
+    },
+    "theme": {
+      "frame": [
+        1372.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save theme",
+          "bg": "rgb(86, 54, 170)",
+          "color": "rgb(255, 255, 255)"
+        },
+        {
+          "text": "Apply",
+          "bg": "rgb(86, 54, 170)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "decoration": {
+      "frame": [
+        1372.5,
+        599
+      ],
+      "overflow": 0,
+      "padding": null,
+      "gap": null,
+      "bg": "rgba(0, 0, 0, 0)",
+      "buttons": [
+        {
+          "text": "Save decoration",
+          "bg": "rgb(86, 54, 170)",
+          "color": "rgb(255, 255, 255)"
+        }
+      ]
+    },
+    "admin": {
+      "frame": [
+        922.5,
+        1638
+      ],
+      "overflow": 0,
+      "padding": "16px",
+      "gap": 16,
+      "bg": "rgb(16, 13, 24)",
+      "buttons": []
+    }
+  }
+]
